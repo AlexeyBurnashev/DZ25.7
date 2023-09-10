@@ -8,7 +8,7 @@ using namespace std;
 
 constexpr auto db_host = "localhost";
 constexpr auto db_user = "root";
-constexpr auto db_password = "Belskaya9791";
+constexpr auto db_password = "root";
 constexpr auto db_name = "db";
 
 class Database {
